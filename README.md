@@ -33,3 +33,8 @@ indicates that [CUDA Toolkit 11(.2)](https://developer.nvidia.com/cuda-toolkit-a
     Could not load dynamic library 'cusolver64_10.dll'
 
 indicates that `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin\cusolver64_11.dll` needs to be renamed to `cusolver64_10.dll`
+
+# Resources
+
+* [Deap Learning with Python](https://livebook.manning.com/book/deep-learning-with-python/about-this-book/)
+* 
